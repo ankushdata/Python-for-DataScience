@@ -1,0 +1,16 @@
+DATE,CUSTOMER,ITEM,QUANTITY,UNIT PRICE
+1/1/2018,Aashish,BEER,124,95
+2/1/2018,Avijit,Pizza,5,85
+3/1/2018,Nilay,Banana,3,55
+3/1/2018,Nilay,,3,55
+3/1/2018,Avijit,Gobi Manchurian,3,85
+3/1/2018,Gaurav,veg noodles,1,58
+4/1/2018,Eman,Butter Chicken,1,.
+4/1/2018,Gaurav,Banana,1,55
+4/1/2018,Ram,Idli Vada,2,25
+4/1/2018,Nilay,Samosa,1,11
+5/1/2018,Aashish,,1,3
+5/1/2018,Ram,Banana,2,55
+5/1/2018,Nilay,Dhokla,2,70
+6/1/2018,Nilay,Butter chicken,1,285
+6/1/2018,Gaurav,Set Dosa,3,40
